@@ -2763,7 +2763,7 @@
         "id": "L_OPTIONS_276",
         "en": "Completed\n",
         "gb": "Completed\n",
-        "jp": "Mission Status:\n",
+        "jp": "Status da Missao:\n",
         "it": "Completed\n",
         "fr": "Completed\n",
         "de": "Completed\n",
@@ -2781,13 +2781,13 @@
     },
     {
         "id": "L_OPTIONS_278",
-        "en": "Mission Status:\n",
-        "gb": "Mission Status:\n",
+        "en": "Status da Missao:\n",
+        "gb": "Status da Missao:\n",
         "jp": "Mission Time:\n",
-        "it": "Mission Status:\n",
-        "fr": "Mission Status:\n",
-        "de": "Mission Status:\n",
-        "es": "Mission Status:\n"
+        "it": "Status da Missao:\n",
+        "fr": "Status da Missao:\n",
+        "de": "Status da Missao:\n",
+        "es": "Status da Missao:\n"
     },
     {
         "id": "L_OPTIONS_279",
